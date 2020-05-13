@@ -1,0 +1,23 @@
+{
+  "name": "@async-module/config-plugin",
+  "version": "0.0.2",
+  "description": "help for config async module to project",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TimCN/async-module-config-plugin.git"
+  },
+  "keywords": [],
+  "author": "tim.shanghai@outlook.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TimCN/async-module-config-plugin/issues"
+  },
+  "homepage": "https://github.com/TimCN/async-module-config-plugin#readme"
+}
